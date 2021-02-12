@@ -1,0 +1,13 @@
+C:\Users\Dolglas\Desktop\Visual Studio 2019\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\Dolglas\Desktop\Visual Studio 2019\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\Dolglas\Desktop\Visual Studio 2019\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\Dolglas\Desktop\Visual Studio 2019\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\Dolglas\Desktop\Visual Studio 2019\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\Dolglas\Desktop\Visual Studio 2019\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\Dolglas\Desktop\Visual Studio 2019\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+C:\Users\Dolglas\Desktop\Visual Studio 2019\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Dolglas\Desktop\Visual Studio 2019\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\Dolglas\Desktop\Visual Studio 2019\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Dolglas\Desktop\Visual Studio 2019\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\Dolglas\Desktop\Visual Studio 2019\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\Dolglas\Desktop\Visual Studio 2019\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
